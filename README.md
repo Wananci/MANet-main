@@ -9,3 +9,8 @@ Our network is trained on the No-Service Rail Defects (NSRD) dataset.
     `https://ieeexplore.ieee.org/abstract/document/9285332`  
 [dataset code]  
     `https://github.com/zdfcvsn/MCnet`  
+
+![MA](https://github.com/Wananci/MANet-main/blob/master/MANet-master/img/MA.jpg)
+![MANet](https://github.com/Wananci/MANet-main/blob/master/MANet-master/img/MANet.jpg)
+![results](https://github.com/Wananci/MANet-main/blob/master/MANet-master/img/Results.jpg)
+![visualresults](https://github.com/Wananci/MANet-main/blob/master/MANet-master/img/VisualResult.jpg)
